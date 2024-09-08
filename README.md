@@ -45,3 +45,4 @@ The plot includes prediction intervals, giving a range of possible outcomes and 
 
 Additional plots (components and parameters) are generated to analyze the individual contributions of various model components like seasonality, trends, and holidays. 
 These diagnostics help in understanding how the model is making its predictions and where improvements might be necessary.
+Predictive Modeling of Bike-Sharing Demand with NeuralProphet
